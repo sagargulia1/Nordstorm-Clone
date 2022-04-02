@@ -55,4 +55,4 @@ Nordstrom is an international Online Shopping Store. Founded in 1901 by John W. 
 
 6. Once the payment is done and the order is successfully placed and it will redirect to the payment process page and after 3 seconds it will redirect the user to the home page of the website.
 
-![]https://github.com/neerajmasai/nordstrom_clone/raw/main/images/processing.PNG)
+![](https://github.com/neerajmasai/nordstrom_clone/raw/main/images/processing.PNG)
