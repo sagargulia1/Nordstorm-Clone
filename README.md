@@ -53,8 +53,5 @@ Nordstrom is an international Online Shopping Store. Founded in 1901 by John W. 
 
 5. This is the payment gateway where the user has to provide the card details and make the payment and place the order.
 
-![](https://github.com/neerajmasai/nordstrom_clone/raw/main/images/payment.PNG)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648663083057/oK77NtTbP.png?auto=compress,format&format=webp)
 
-6. Once the payment is done and the order is successfully placed and it will redirect to the payment process page and after 3 seconds it will redirect the user to the home page of the website.
-
-![](https://github.com/neerajmasai/nordstrom_clone/raw/main/images/processing.PNG)
