@@ -3,6 +3,8 @@ As a part of our build week we were given a problem statement to clone the websi
 
 # Demo Link : https://boisterous-yeot-f89144.netlify.app/
 
+# Blog Link : https://sagargulia.hashnode.dev/how-did-our-team-build-the-nordstrom-clone
+
 ## Team Size
 6
 
@@ -47,11 +49,14 @@ Nordstrom is an international Online Shopping Store. Founded in 1901 by John W. 
 3. This the shop by category page where the user can find all the products related to women's category.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648662636897/0Hb15eW8J.png?auto=compress,format&format=webp)
 
-4. After adding products to the bag, the user can go to the checkout page , where he can see all the prodcuts that are added to the bag and the order summary that include the total cost of the products.
+4. In the Product page, the user can see all the details of any particular product he/she selects and there the user can select the size, color or any of the specifications depending on the requirement and add the product in to the shopping bag.
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648953826595/xGUnV7e8j.PNG?auto=compress,format&format=webp)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648663121530/r9H1U0a_g.png?auto=compress,format&format=webp)
+5. After adding products to the bag, the user can go to the checkout page , where he can see all the prodcuts that are added to the bag and the order summary that include the total cost of the products.
 
-5. This is the payment gateway where the user has to provide the card details and make the payment and place the order.
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648953964432/4FihA44B6.png?auto=compress,format&format=webp)
+
+6. This is the payment gateway where the user has to provide the card details and make the payment and place the order.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648663083057/oK77NtTbP.png?auto=compress,format&format=webp)
 
