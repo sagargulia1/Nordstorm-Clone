@@ -54,9 +54,9 @@ Nordstrom is an international Online Shopping Store. Founded in 1901 by John W. 
 
 5. After adding products to the bag, the user can go to the checkout page , where he can see all the prodcuts that are added to the bag and the order summary that include the total cost of the products.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648953964432/4FihA44B6.png?auto=compress,format&format=webp)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648954002595/jjjSsTTk9.png?auto=compress,format&format=webp)
 
 6. This is the payment gateway where the user has to provide the card details and make the payment and place the order.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648663083057/oK77NtTbP.png?auto=compress,format&format=webp)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648953964432/4FihA44B6.png?auto=compress,format&format=webp)
 
