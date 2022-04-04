@@ -1,7 +1,7 @@
 # Nordstrom Clone
 As a part of our build week we were given a problem statement to clone the website Nordstrom. We have tried to make a pixel-perfect clone of the original website in 6 days.
 
-# Demo Link : https://boisterous-yeot-f89144.netlify.app/
+# Demo Link : https://nordstormunit4.netlify.app/
 
 # Blog Link : https://sagargulia.hashnode.dev/how-did-our-team-build-the-nordstrom-clone
 
